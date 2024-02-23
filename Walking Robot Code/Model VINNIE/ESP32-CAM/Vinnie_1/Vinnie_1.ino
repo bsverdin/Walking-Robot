@@ -1,3 +1,4 @@
+//All my code was uploaded to my repository at https://github.com/bsverdin/Walking-Robot.
 //Libraries
 #include "esp_wifi.h"
 #include "esp_camera.h"
