@@ -1,4 +1,4 @@
-
+//All my code was uploaded to my repository at https://github.com/bsverdin/Walking-Robot.
 #include <Servo.h>
 Servo axis1;
 Servo shoulder1;
